@@ -1,0 +1,12 @@
+---
+title: "GitHub Class Practice"
+author: "Alex Marketos"
+date: "10/29/2019"
+output: html_document
+---
+
+```{r}
+2 + 2
+```
+
+This is an equation
